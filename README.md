@@ -1,2 +1,2 @@
-# interviews
-A collection of questions and solutions to interview problems
+# interview-questions
+Interview questions and solutions
